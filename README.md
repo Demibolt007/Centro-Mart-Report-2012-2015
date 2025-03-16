@@ -20,6 +20,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 5. Key Market Regions: USA, Australia, France, China, and India
 
 **Key Insights & Analysis**
+
 **_1. Sales & Profit Trends (2012-2015)_**
 December consistently records peak profits, benefiting from holiday consumer spending.
 July experiences the lowest profit levels, suggesting a seasonal downturn.
