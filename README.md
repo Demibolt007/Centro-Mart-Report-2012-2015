@@ -74,8 +74,10 @@ Same Day Ship Mode generates the least revenue, indicating low demand.
 Optimize Standard Class shipping as it balances cost and efficiency.
 Re-evaluate Same Day Ship Mode’s pricing or offer targeted promotions to drive adoption.
 
-**Final Recommendations**
+![Centro Mart Sales   Market Performance Analysis (2012-2015)](https://github.com/user-attachments/assets/b8b571f2-9c4f-4ae2-86bb-c6b75bbdfbde)
 
+
+**Final Recommendations**
 _**Short-Term Strategies (Next 12 Months)**_
 1. Leverage peak December sales with increased marketing and inventory planning.
 2. Launch promotions during July downturns to maintain revenue flow.
