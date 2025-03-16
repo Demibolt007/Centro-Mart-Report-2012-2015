@@ -1,9 +1,11 @@
 **Centro Mart Sales & Market Performance Report (2012 - 2015)**
 
 **Executive Summary**
+
 Centro Mart, operating in the Retail & E-Commerce Industry, has experienced varying levels of profitability and market penetration from 2012 to 2015. This report analyzes sales trends, customer behavior, product category performance, shipping efficiency, and market expansion opportunities. The objective is to identify actionable insights for business growth and improved profitability.
 
 **Industry Overview**
+
 The Retail & E-Commerce Industry is highly competitive, driven by customer demand, logistics efficiency, and technological advancements. Success in this sector depends on:
 High sales revenue and strong profit margins
 Optimized supply chain and shipping efficiency
