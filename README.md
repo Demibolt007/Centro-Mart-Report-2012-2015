@@ -7,17 +7,17 @@ Centro Mart, operating in the Retail & E-Commerce Industry, has experienced vary
 **Industry Overview**
 
 The Retail & E-Commerce Industry is highly competitive, driven by customer demand, logistics efficiency, and technological advancements. Success in this sector depends on:
-High sales revenue and strong profit margins
-Optimized supply chain and shipping efficiency
-Customer acquisition, retention, and loyalty
-Data-driven decision-making for expansion and product selection.
+1. High sales revenue and strong profit margins
+2. Optimized supply chain and shipping efficiency
+3. Customer acquisition, retention, and loyalty
+4. Data-driven decision-making for expansion and product selection.
 
 **Business Performance Overview**
-Total Revenue: $12.14M
-Total Profit: $1.56M
-Total Orders Processed: 9,980
-Primary Revenue Source: Technology, Office Supplies, and Furniture
-Key Market Regions: USA, Australia, France, China, and India
+1. Total Revenue: $12.14M
+2. Total Profit: $1.56M
+3. Total Orders Processed: 9,980
+4. Primary Revenue Source: Technology, Office Supplies, and Furniture
+5. Key Market Regions: USA, Australia, France, China, and India
 
 **Key Insights & Analysis**
 **_1. Sales & Profit Trends (2012-2015)_**
