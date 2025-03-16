@@ -21,61 +21,61 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 
 **Key Insights & Analysis**
 
-**_1. Sales & Profit Trends (2012-2015)_**
-December consistently records peak profits, benefiting from holiday consumer spending.
-July experiences the lowest profit levels, suggesting a seasonal downturn.
+**_Sales & Profit Trends (2012-2015)_**
+1. December consistently records peak profits, benefiting from holiday consumer spending.
+2. July experiences the lowest profit levels, suggesting a seasonal downturn.
 
 **_Recommendation:_**
-Capitalize on December peaks by increasing marketing, inventory, and staffing.
-Develop promotional discounts & campaigns to boost sales in July.
+1. Capitalize on December peaks by increasing marketing, inventory, and staffing.
+2. Develop promotional discounts & campaigns to boost sales in July.
 
-**_2. Top Customers Contribution_**
-Tom Ashbrook is the highest revenue-generating customer ($40.49K).
-The top 5 customers contribute significantly to total sales, showing high reliance on a small group of buyers.
-
-**_Recommendation:_**
-Implement loyalty programs & exclusive discounts to retain high-value customers.
-Expand the customer base to reduce dependency on a few key buyers.
-
-**_3. Category Sales & Profitability_**
-Technology is the most profitable category, followed by Office Supplies.
-Furniture has high sales but lower profit margins, possibly due to higher costs.
+**Top Customers Contribution_**
+1. Tom Ashbrook is the highest revenue-generating customer ($40.49K).
+2. The top 5 customers contribute significantly to total sales, showing high reliance on a small group of buyers.
 
 **_Recommendation:_**
-Maintain focus on Technology & Office Supplies.
-Optimize pricing & supplier contracts for Furniture to improve profitability.
+1. Implement loyalty programs & exclusive discounts to retain high-value customers.
+2. Expand the customer base to reduce dependency on a few key buyers.
 
-**_4. Market Sales Distribution_**
-USA is the largest market, contributing ~19% of total sales.
-China & India show growth potential, while African markets remain underpenetrated.
-
-**_Recommendation:_**
-Invest in localized marketing & partnerships in China & India.
-Conduct feasibility studies to assess demand in African markets.
-
-**_5. Top 6 Subcategories by Sales_**
-Phones, Copiers, and Chairs lead sales, each surpassing $1.5M.
-These categories drive revenue and require consistent inventory management.
+**Category Sales & Profitability_**
+1. Technology is the most profitable category, followed by Office Supplies.
+2. Furniture has high sales but lower profit margins, possibly due to higher costs.
 
 **_Recommendation:_**
-Strengthen inventory management & marketing for these sub-categories.
-Identify underperforming categories and reposition them through bundling or promotions.
+1. Maintain focus on Technology & Office Supplies.
+2. Optimize pricing & supplier contracts for Furniture to improve profitability.
 
-**_6. Order Priority & Profitability_**
-Medium Priority Orders generate the highest profits.
-Critical & Low Priority Orders contribute the least, highlighting inefficiencies.
-
-**_Recommendation:_**
-Maintain focus on Medium Priority Orders to ensure efficient processing.
-Analyze pricing & logistics for Critical & Low Priority Orders to enhance profitability.
-
-**_7. Shipping Efficiency & Cost Analysis_**
-Standard Class is the dominant shipping method, proving cost-effective.
-Same Day Ship Mode generates the least revenue, indicating low demand.
+**Market Sales Distribution_**
+1. USA is the largest market, contributing ~19% of total sales.
+2. China & India show growth potential, while African markets remain underpenetrated.
 
 **_Recommendation:_**
-Optimize Standard Class shipping as it balances cost and efficiency.
-Re-evaluate Same Day Ship Mode’s pricing or offer targeted promotions to drive adoption.
+1. Invest in localized marketing & partnerships in China & India.
+2. Conduct feasibility studies to assess demand in African markets.
+
+**Top 6 Subcategories by Sales_**
+1. Phones, Copiers, and Chairs lead sales, each surpassing $1.5M.
+2. These categories drive revenue and require consistent inventory management.
+
+**_Recommendation:_**
+1. Strengthen inventory management & marketing for these sub-categories.
+2. Identify underperforming categories and reposition them through bundling or promotions.
+
+**Order Priority & Profitability_**
+1. Medium Priority Orders generate the highest profits.
+2. Critical & Low Priority Orders contribute the least, highlighting inefficiencies.
+
+**_Recommendation:_**
+1. Maintain focus on Medium Priority Orders to ensure efficient processing.
+2. Analyze pricing & logistics for Critical & Low Priority Orders to enhance profitability.
+
+**Shipping Efficiency & Cost Analysis_**
+1. Standard Class is the dominant shipping method, proving cost-effective.
+2. Same Day Ship Mode generates the least revenue, indicating low demand.
+
+**_Recommendation:_**
+1. Optimize Standard Class shipping as it balances cost and efficiency.
+2. Re-evaluate Same Day Ship Mode’s pricing or offer targeted promotions to drive adoption.
 
 ![Centro Mart Sales   Market Performance Analysis (2012-2015)](https://github.com/user-attachments/assets/b8b571f2-9c4f-4ae2-86bb-c6b75bbdfbde)
 
