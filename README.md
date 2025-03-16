@@ -29,7 +29,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Capitalize on December peaks by increasing marketing, inventory, and staffing.
 2. Develop promotional discounts & campaigns to boost sales in July.
 
-**Top Customers Contribution_**
+**_Top Customers Contribution_**
 1. Tom Ashbrook is the highest revenue-generating customer ($40.49K).
 2. The top 5 customers contribute significantly to total sales, showing high reliance on a small group of buyers.
 
@@ -37,7 +37,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Implement loyalty programs & exclusive discounts to retain high-value customers.
 2. Expand the customer base to reduce dependency on a few key buyers.
 
-**Category Sales & Profitability_**
+**_Category Sales & Profitability_**
 1. Technology is the most profitable category, followed by Office Supplies.
 2. Furniture has high sales but lower profit margins, possibly due to higher costs.
 
@@ -45,7 +45,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Maintain focus on Technology & Office Supplies.
 2. Optimize pricing & supplier contracts for Furniture to improve profitability.
 
-**Market Sales Distribution_**
+**_Market Sales Distribution_**
 1. USA is the largest market, contributing ~19% of total sales.
 2. China & India show growth potential, while African markets remain underpenetrated.
 
@@ -53,7 +53,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Invest in localized marketing & partnerships in China & India.
 2. Conduct feasibility studies to assess demand in African markets.
 
-**Top 6 Subcategories by Sales_**
+**_Top 6 Subcategories by Sales_**
 1. Phones, Copiers, and Chairs lead sales, each surpassing $1.5M.
 2. These categories drive revenue and require consistent inventory management.
 
@@ -61,7 +61,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Strengthen inventory management & marketing for these sub-categories.
 2. Identify underperforming categories and reposition them through bundling or promotions.
 
-**Order Priority & Profitability_**
+**_Order Priority & Profitability_**
 1. Medium Priority Orders generate the highest profits.
 2. Critical & Low Priority Orders contribute the least, highlighting inefficiencies.
 
@@ -69,7 +69,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Maintain focus on Medium Priority Orders to ensure efficient processing.
 2. Analyze pricing & logistics for Critical & Low Priority Orders to enhance profitability.
 
-**Shipping Efficiency & Cost Analysis_**
+**_Shipping Efficiency & Cost Analysis_**
 1. Standard Class is the dominant shipping method, proving cost-effective.
 2. Same Day Ship Mode generates the least revenue, indicating low demand.
 
