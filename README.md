@@ -77,6 +77,7 @@ The Retail & E-Commerce Industry is highly competitive, driven by customer deman
 1. Optimize Standard Class shipping as it balances cost and efficiency.
 2. Re-evaluate Same Day Ship Mode’s pricing or offer targeted promotions to drive adoption.
 
+
 ![Centro Mart Sales   Market Performance Analysis (2012-2015)](https://github.com/user-attachments/assets/b8b571f2-9c4f-4ae2-86bb-c6b75bbdfbde)
 
 
